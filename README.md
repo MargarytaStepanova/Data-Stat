@@ -1,2 +1,2 @@
-# Data-Stat
+# datasciencecoursera
 Data Science Course Place
